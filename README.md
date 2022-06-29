@@ -1,4 +1,4 @@
-# javascript-topic1
+# javascript-topic1: promises, promises
 
 Demonstration of javascript promises and async await
 
