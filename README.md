@@ -1,6 +1,6 @@
-# javascript-topic1: promises, promises
+# javascript example 1: promises, promises
 
-Demonstration of javascript promises and async await
+A demonstration of 'promises' and async await using a javascript code example. Timers are used in place of long-running web access calls.
 
 Currently available to run here:
 [lightningweather.webhop.net/](https://lightningweather.webhop.net/indextestawait.html)
