@@ -2,11 +2,13 @@
 // SPDX-License-Identifier: Apache-2.0
 // @title: Promises, promises
 // @author: RonB
-// @version 1.0
+// @version 1.0.2
 // @description: this javascript will help you to learn more about how javascript "promises" and async functions work
 // @references: 
 //   https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function
+//   https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_promises
 //   https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises
+
 
 // Declarations
 const textarea = document.getElementById('output');
